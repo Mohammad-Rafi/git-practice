@@ -1,0 +1,14 @@
+say yesterday i have spent about 10 hrs in just listening and understanding to a 2 hr lecture related to the git .
+
+>> there i have learnt about version control 
+>> how local repo is created and to work on it before even linking it to the git hub
+>>> this is an interesting topic i got to know about ,  this is what it is:
+        >> wwe first create a folder in our local system to have a set of files in a place and this is seperated inside into 3 parts 
+            >> first is a working directory --> which simply means the file we code or working on in any ide / editor 
+            >> after that before diving into the github server first we need to set up a local github repo in which is classified as 2 tyepes one is staging and another is commiting:
+                >> staging means after we feel the code ok then we let to be in our github repo file so give commands like git init and if this already done git add file name , this makes the file to get into the staging area. if find any issues not good enough or by any reason this can be removed from the staging area but just giving a command git rm --cache file_name irt removes the file from the staging area and sets back to the working directory.
+                >> after staging if all the code set to be ok and ready to push into the git hub then we need to commit the file into the local github repo setup by the command git commit -m "(any valid message)" this ensures that the file is now set be in the local github repo section and is ready to push into the github server (repo)
+                >> now to push it to the git hub we have two options one from the ide terminal and other is to use git bash this is a good practice to have 
+                    >> to know the full process you can refer to the git-explain repo in Mohammad-Rafi github accout to understand it fully from the scrach .
+
+                    >> now lets push this file to my github repo using git bash
