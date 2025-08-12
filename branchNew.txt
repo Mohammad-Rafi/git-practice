@@ -1,0 +1,26 @@
+here we practice about hoe to create and delete branches 
+
+    >> i know only how to delete branches from a local repo commited ones , ones it is pushed to git hubi dont knwo that i neeed to learn them.
+
+
+to create a branch two cammands both works :
+    >> git swith -c (branch_name)      --> --create    also works
+    >> git checkout -b (branch_name)
+
+to get change from one branch to the other the command :
+    >> git switch (branch_name)
+    >> git checkout (branch_name)
+
+if i have multiple branches , and i want to open apreviously closed branch or a branch that i have switched from recently then the command is :
+    >> git switch --
+
+
+to delete a branch the command:
+    >> git branch -d (branch_name)
+
+
+to check in branch we are in current or wanted to know total how many branaces are there locally and in remote the command is:
+    >> git branch --all
+    >> git branch 
+
+    
