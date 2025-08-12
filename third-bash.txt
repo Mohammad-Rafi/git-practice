@@ -26,3 +26,13 @@ now its time for another new topic called "TAGS"  --> basically this refers to a
             >> git tag -a (version_name) -m "(a valid message)"    
              ---->   -a means gives the annoted data like author , meta data , message , date .
              ---->   -m means gives the message related to the upddate or any fixing of code errors or feature added.
+
+
+
+             after adding the tag make sure that the tags are also pushed along with the code into the github repo 
+
+             command to push tags into the github repo : (previoius one was for how to add a tag this is how to push to server)
+
+                >> git push origin (tagname)  : git push origin v1.0.1
+
+                
