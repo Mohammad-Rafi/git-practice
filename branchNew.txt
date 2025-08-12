@@ -23,4 +23,6 @@ to check in branch we are in current or wanted to know total how many branaces a
     >> git branch --all
     >> git branch 
 
-    
+
+to push branch to remote repo command :
+    >> git push origin (branch_name)
