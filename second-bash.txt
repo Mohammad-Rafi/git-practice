@@ -1,0 +1,9 @@
+first commit was done excellently but a small suggestion no need to look up for the .ssh file everytime if the key is setup already in the git hub noneed to set it up agian because each device will have only one such key depening on some parameters , so dont waste time on thi after commiting check the branch name to change branch give command : git branch -M (branch_name) 
+
+also amek sure that the folder in local setup and the repo in the github repo are same in order to avoid any further issues.
+
+
+>> lets say you haven't created any folder yet or already created a folder with another name but you that file to be in the git hub repo then : 
+        >> go for creating a new folder using BASH  , give command : mkdir (folder name as in the git hub repo) make sure you have created a name same in the github or else this is all a big waste of time and you will be begging an emotional less tool for help.
+
+        then repeat the previous process only to commit into the github repo.
